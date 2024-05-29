@@ -8,6 +8,7 @@ function showImgPreview() {
 function hidePreview() {
   $(".preview-container").hide();
 }
+
 function showAlert(mess) {
   Swal.fire({
     position: "center",
